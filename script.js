@@ -1,4 +1,7 @@
 let tbodyselect = document.querySelector("select");
 tbodyselect.addEventListener("change", () => {
-  console.log("TESTE");
+  let number = 10;
+  console.log(number);
 });
+
+console.log("Teste 2");

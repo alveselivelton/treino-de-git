@@ -1,7 +1,3 @@
-let tbodyselect = document.querySelector("select");
-tbodyselect.addEventListener("change", () => {
-  let number = 10;
-  console.log(number);
-});
+const sum = (num1, num2) => num1 + num2;
 
-const name = "Elivelton";
+console.log(sum(3, 7));

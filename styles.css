@@ -13,6 +13,7 @@ body {
   display: flex;
 }
 
-h1 {
+h1,
+p {
   color: black;
 }
